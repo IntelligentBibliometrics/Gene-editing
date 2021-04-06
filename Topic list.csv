@@ -1,0 +1,120 @@
+ID,Topic Label,Topic community it belongs to,Birth year,Dead Year
+1,Cas nucleases,#1 Cas Nuclease,2005,2014
+2,gene transfer,#1 Cas Nuclease,2009,2019
+3,DNA fingerprinting,#1 Cas Nuclease,2009,2014
+4,Mycobacterium tuberculosis complex,#1 Cas Nuclease,2010,2010
+5,Escherichia coli,#1 Cas Nuclease,2011,2020
+6,adaptive immune system,#4 Gene Expression,2011,2020
+7,gene networks,#3 Gene Therapy,2011,2014
+8,genome sequence,#4 Gene Expression,2012,2020
+9,acquired immunity,#1 Cas Nuclease,2012,2020
+10,guide RNA,#5 Guide RNA,2013,2020
+11,Cas9,#2 Cas9,2013,2020
+12,gene expression,#4 Gene Expression,2014,2020
+13,Transcription Activator Like Effector Nucleases,#5 Guide RNA,2014,2020
+14,genetic variation,#1 Cas Nuclease,2015,2020
+15,gene knockout,#5 Guide RNA,2015,2020
+16,cell to cell transmission,#6 Cell to Cell Transmission,2015,2015
+17,null mutation,#1 Cas Nuclease,2015,2017
+18,gene therapy,#3 Gene Therapy,2015,2020
+19,model organisms,#3 Gene Therapy,2015,2020
+20,plasmid DNA,#1 Cas Nuclease,2015,2015
+21,cas4 gene,#1 Cas Nuclease,2015,2018
+22,cell death,#1 Cas Nuclease,2016,2020
+23,Zinc Finger Nucleases,#5 Guide RNA,2016,2016
+24,pluripotent stem cells,#5 Guide RNA,2016,2020
+25,foreign DNA,#4 Gene Expression,2016,2020
+26,gene regulation,#4 Gene Expression,2016,2020
+27,synthetic biology,#3 Gene Therapy,2016,2019
+28,cell cycle,#6 Cell to Cell Transmission,2016,2017
+29,mouse models,#2 Cas9,2016,2020
+30,virus diseases,#9 Virus Diseases,2016,2016
+31,cell lines,#3 Gene Therapy,2016,2020
+32,horizontal transfer,#1 Cas Nuclease,2016,2016
+33,human embryos,#6 Cell to Cell Transmission,2016,2020
+34,homozygous mutations,#5 Guide RNA,2016,2017
+35,high throughput genetic screens,#8 High Throughput Genetic Screens,2016,2017
+36,carbon source,#4 Gene Expression,2016,2020
+37,genetic manipulation,#9 Virus Diseases,2017,2020
+38,ectopic expression,#4 Gene Expression,2017,2020
+39,animal models,#5 Guide RNA,2017,2020
+40,cell membrane,#1 Cas Nuclease,2017,2020
+41,Chinese hamster ovary cells,#1 Cas Nuclease,2017,2020
+42,cell proliferation,#5 Guide RNA,2017,2020
+43,mammalian cells,#5 Guide RNA,2017,2020
+44,homologous recombination,#1 Cas Nuclease,2017,2020
+45,central nervous system,#4 Gene Expression,2017,2020
+46,secondary screens,#4 Gene Expression,2017,2018
+47,cell motility,#6 Cell to Cell Transmission,2017,2020
+48,chemotherapeutic agents,#1 Cas Nuclease,2017,2018
+49,multiplex gene,#3 Gene Therapy,2017,2019
+50,cell metabolism,#4 Gene Expression,2017,2019
+51,tumor cells,#6 Cell to Cell Transmission,2018,2020
+52,genetic modification,#5 Guide RNA,2018,2020
+53,human cells,#5 Guide RNA,2018,2020
+54,zebrafish model,#5 Guide RNA,2018,2020
+55,gene deletion,#1 Cas Nuclease,2018,2020
+56,drug discovery,#3 Gene Therapy,2018,2020
+57,transcriptional regulation,#4 Gene Expression,2018,2020
+58,viral replication,#9 Virus Diseases,2018,2018
+59,clinical trials,#6 Cell to Cell Transmission,2018,2020
+60,Saccharomyces cerevisiae,#8 High Throughput Genetic Screens,2018,2019
+61,transcriptome analysis,#7 Neurodegenerative Diseases,2018,2020
+62,tumor suppressor,#5 Guide RNA,2018,2018
+63,genetic screens,#8 High Throughput Genetic Screens,2018,2020
+64,regulatory elements,#4 Gene Expression,2018,2018
+65,duchenne Muscular dystrophy,#3 Gene Therapy,2018,2019
+66,nucleic acids,#1 Cas Nuclease,2018,2019
+67,Type 2 diabetes,#1 Cas Nuclease,2018,2020
+68,male fertility,#5 Guide RNA,2018,2020
+69,basal progenitors,#4 Gene Expression,2018,2020
+70,intravitreal injection,#2 Cas9,2018,2019
+71,detectable phenotype,#5 Guide RNA,2018,2020
+72,transgene free rice plants,#2 Cas9,2018,2020
+73,clinical practice,#1 Cas Nuclease,2018,2020
+74,genetic diseases,#3 Gene Therapy,2019,2020
+75,mass spectroscopy,#4 Gene Expression,2019,2020
+76,homology directed repair,#5 Guide RNA,2019,2020
+77,colorectal tumors,#1 Cas Nuclease,2019,2020
+78,cell growth,#5 Guide RNA,2019,2020
+79,transcription factors,#4 Gene Expression,2019,2019
+80,embryo development,#5 Guide RNA,2019,2020
+81,reduced expression,#1 Cas Nuclease,2019,2020
+82,Staphylococcus aureus,#4 Gene Expression,2019,2020
+83,Negative Regulator,#9 Virus Diseases,2019,2019
+84,gene drives,#8 High Throughput Genetic Screens,2019,2020
+85,plant growth,#7 Neurodegenerative Diseases,2019,2019
+86,CRISPR Cas12a system,#1 Cas Nuclease,2019,2020
+87,flow cytometry,#8 High Throughput Genetic Screens,2019,2020
+88,alternative splicing,#1 Cas Nuclease,2019,2020
+89,Alzheimer disease,#7 Neurodegenerative Diseases,2019,2019
+90,tumor models,#2 Cas9,2019,2020
+91,RNA phages,#1 Cas Nuclease,2019,2020
+92,amino acids,#4 Gene Expression,2019,2020
+93,CD8 T cells,#1 Cas Nuclease,2020,2020
+94,metabolic engineering,#3 Gene Therapy,2020,2020
+95,recombinant proteins,#4 Gene Expression,2020,2020
+96,drug resistance,#6 Cell to Cell Transmission,2020,2020
+97,polymerase chain reaction,#1 Cas Nuclease,2020,2020
+98,T cells,#1 Cas Nuclease,2020,2020
+99,antibiotic resistance,#1 Cas Nuclease,2020,2020
+100,phylogenetic analysis,#1 Cas Nuclease,2020,2020
+101,protein expression,#9 Virus Diseases,2020,2020
+102,host cells,#9 Virus Diseases,2020,2020
+103,gene disruption,#3 Gene Therapy,2020,2020
+104,single guide RNA,#2 Cas9,2020,2020
+105,nonhomologous end joining,#5 Guide RNA,2020,2020
+106,amyotrophic lateral sclerosis,#7 Neurodegenerative Diseases,2020,2020
+107,Caenorhabditis elegans,#5 Guide RNA,2020,2020
+108,offtarget effects,#2 Cas9,2020,2020
+109,DNA damage,#5 Guide RNA,2020,2020
+110,functional characterization,#1 Cas Nuclease,2020,2020
+111,molecular biology,#8 High Throughput Genetic Screens,2020,2020
+112,skeletal muscle,#4 Gene Expression,2020,2020
+113,eukaryotic cells,#1 Cas Nuclease,2020,2020
+114,neurodegenerative diseases,#7 Neurodegenerative Diseases,2020,2020
+115,antimicrobial resistance,#1 Cas Nuclease,2020,2020
+116,insulin resistance,#1 Cas Nuclease,2020,2020
+117,multiple myeloma,#8 High Throughput Genetic Screens,2020,2020
+118,viral genome,#4 Gene Expression,2020,2020
+119,cystathionine beta synthase,#4 Gene Expression,2020,2020
